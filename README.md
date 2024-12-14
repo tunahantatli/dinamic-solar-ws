@@ -1,0 +1,1 @@
+# dinamic-solar-ws
